@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_busd_256x256</title>
+    <g id="logo_busd_256x256" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="busd-logo" fill-rule="nonzero">
+            <path d="M126.413521,252.835556 C196.229781,252.835556 252.827042,197.024367 252.827042,128.177778 C252.827042,59.3311882 196.229781,3.52 126.413521,3.52 C56.5972612,3.52 0,59.3311882 0,128.177778 C0,197.024367 56.5972612,252.835556 126.413521,252.835556 Z" id="路径" fill="#F0B90B"></path>
+            <polygon id="矩形" fill="#FFFFFF" transform="translate(111.654946, 84.628290) rotate(-45.000000) translate(-111.654946, -84.628290) " points="76.9340693 70.5829691 146.18277 71.0672257 146.375822 98.6736107 77.1271209 98.1893541"></polygon>
+            <polygon id="矩形" fill="#FFFFFF" transform="translate(126.406300, 128.208956) rotate(-45.000000) translate(-126.406300, -128.208956) " points="70.9895861 114.018909 181.629962 114.792618 181.823013 142.399003 71.1826378 141.625294"></polygon>
+            <polygon id="矩形" fill="#FFFFFF" transform="translate(155.843144, 157.293401) rotate(-45.000000) translate(-155.843144, -157.293401) " points="100.426431 143.103354 211.066806 143.877063 211.259858 171.483448 100.619482 170.709739"></polygon>
+            <polygon id="矩形" fill="#FFFFFF" transform="translate(67.390510, 128.315931) rotate(-45.000000) translate(-67.390510, -128.315931) " points="53.4907921 114.416213 81.097177 114.609265 81.2902287 142.21565 53.6838437 142.022598"></polygon>
+        </g>
+    </g>
+</svg>
