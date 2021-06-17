@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>xETH</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard备份" transform="translate(-1821.000000, -4045.000000)">
+            <g id="COIN" transform="translate(1821.000000, 4045.000000)">
+                <circle id="椭圆形" fill="#FFAA1D" cx="16" cy="16" r="16"></circle>
+                <circle id="椭圆形备份" fill="#242A47" cx="16" cy="16" r="13.5384615"></circle>
+                <circle id="椭圆形备份-2" fill="#FFFFFF" cx="16" cy="16" r="11.0769231"></circle>
+                <g id="编组-5" transform="translate(11.165336, 7.678971)" fill="#627EEA">
+                    <polygon id="Fill-507" points="0 9.74140987 4.72747646 0.0033065442 4.72747646 12.229915"></polygon>
+                    <polygon id="Fill-508" points="9.76049966 9.74140987 5.01627003 12.229915 5.01627003 0"></polygon>
+                    <polygon id="Fill-509" points="0 10.0976349 4.72747646 12.4646797 4.72747646 16.2709529"></polygon>
+                    <polygon id="Fill-510" points="9.76049966 10.0976349 5.01627003 16.2709529 5.01627003 12.4646797"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
